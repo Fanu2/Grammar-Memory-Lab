@@ -1,0 +1,2658 @@
+{
+  "English": [
+    {
+      "topic": "Sentence Foundations",
+      "level": "A1",
+      "rule": "A basic English sentence normally needs a subject and a verb.",
+      "use": "Statements and simple ideas.",
+      "formation": "Subject + Verb (+ Object/Complement).",
+      "hook": "WHO + DOES WHAT?",
+      "examples": [
+        "I work.",
+        "She reads books.",
+        "They are happy."
+      ],
+      "mistakes": [
+        "❌ Work every day. → ✅ I work every day.",
+        "❌ She happy. → ✅ She is happy."
+      ],
+      "questions": [
+        [
+          "She ___ books every evening.",
+          [
+            "read",
+            "reads",
+            "reading"
+          ],
+          1
+        ],
+        [
+          "They ___ happy.",
+          [
+            "is",
+            "are",
+            "am"
+          ],
+          1
+        ]
+      ],
+      "patterns": [
+        "I + work.",
+        "She + is + happy."
+      ]
+    },
+    {
+      "topic": "Be: am / is / are",
+      "level": "A1",
+      "rule": "Use forms of be for identity, description, age, location and states.",
+      "use": "Identity, description, location and temporary states.",
+      "formation": "I am; you/we/they are; he/she/it is.",
+      "hook": "BE = IDENTITY / STATE / LOCATION",
+      "examples": [
+        "I am a teacher.",
+        "She is tired.",
+        "We are at home.",
+        "They are Canadian."
+      ],
+      "mistakes": [
+        "❌ She are tired. → ✅ She is tired.",
+        "❌ I is ready. → ✅ I am ready."
+      ],
+      "questions": [
+        [
+          "I ___ ready.",
+          [
+            "am",
+            "is",
+            "are"
+          ],
+          0
+        ],
+        [
+          "They ___ at home.",
+          [
+            "is",
+            "are",
+            "am"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present Simple",
+      "level": "A1",
+      "rule": "Use the base verb for I/you/we/they and add -s or -es for he/she/it.",
+      "use": "Habits, routines, repeated actions and facts.",
+      "formation": "I work; she works; do/does for questions and negatives.",
+      "hook": "HE / SHE / IT → S",
+      "examples": [
+        "I work every day.",
+        "She works every day.",
+        "Do you speak English?",
+        "He doesn't drive."
+      ],
+      "mistakes": [
+        "❌ She work here. → ✅ She works here.",
+        "❌ Does she works? → ✅ Does she work?"
+      ],
+      "questions": [
+        [
+          "She ___ every morning.",
+          [
+            "go",
+            "goes",
+            "going"
+          ],
+          1
+        ],
+        [
+          "Does he ___ here?",
+          [
+            "work",
+            "works",
+            "working"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present Continuous",
+      "level": "A1",
+      "rule": "Use am/is/are + -ing for an action happening now or around now.",
+      "use": "Actions in progress and temporary situations.",
+      "formation": "Subject + am/is/are + verb-ing.",
+      "hook": "BE + ING → HAPPENING NOW",
+      "examples": [
+        "I am studying.",
+        "She is cooking now.",
+        "They are working this week."
+      ],
+      "mistakes": [
+        "❌ I studying. → ✅ I am studying.",
+        "❌ She is cook. → ✅ She is cooking."
+      ],
+      "questions": [
+        [
+          "They ___ now.",
+          [
+            "work",
+            "are working",
+            "worked"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "There is / There are",
+      "level": "A1",
+      "rule": "Use there is for singular and there are for plural existence.",
+      "use": "Saying that something exists or is present.",
+      "formation": "There is + singular; There are + plural.",
+      "hook": "THERE IS ONE • THERE ARE MANY",
+      "examples": [
+        "There is a problem.",
+        "There are two books on the table.",
+        "Is there a bank nearby?"
+      ],
+      "mistakes": [
+        "❌ There is two books. → ✅ There are two books."
+      ],
+      "questions": [
+        [
+          "There ___ three chairs.",
+          [
+            "is",
+            "are",
+            "am"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Articles: a / an / the",
+      "level": "A1",
+      "rule": "Use a/an for one non-specific countable noun and the for a specific or known noun.",
+      "use": "Introducing and identifying nouns.",
+      "formation": "a before consonant sound; an before vowel sound; the for specific reference.",
+      "hook": "A/AN = ONE OF MANY • THE = KNOWN",
+      "examples": [
+        "I saw a dog. The dog was friendly.",
+        "She is an engineer.",
+        "Pass me the book."
+      ],
+      "mistakes": [
+        "❌ an university → ✅ a university (consonant sound /juː/)"
+      ],
+      "questions": [
+        [
+          "She is ___ engineer.",
+          [
+            "a",
+            "an",
+            "the"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Nouns: countable / uncountable",
+      "level": "A1",
+      "rule": "Countable nouns have singular/plural forms; many substances and abstract nouns are uncountable.",
+      "use": "Choosing articles, plurals and quantity words.",
+      "formation": "a book/books; water, advice, information.",
+      "hook": "COUNT IT? → A BOOK • CAN'T COUNT IT → WATER",
+      "examples": [
+        "two books",
+        "some water",
+        "some advice",
+        "a piece of information"
+      ],
+      "mistakes": [
+        "❌ advices → ✅ advice / pieces of advice",
+        "❌ informations → ✅ information"
+      ],
+      "questions": [
+        [
+          "I need some ___.",
+          [
+            "advices",
+            "advice",
+            "an advice"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Pronouns",
+      "level": "A1",
+      "rule": "Pronouns replace nouns and change form according to their grammatical role.",
+      "use": "Avoiding repetition and marking subject/object/possessive roles.",
+      "formation": "I/me/my/mine; he/him/his; they/them/their/theirs.",
+      "hook": "WHO DOES IT? → SUBJECT • WHO RECEIVES IT? → OBJECT",
+      "examples": [
+        "She called me.",
+        "This is my book.",
+        "The book is mine.",
+        "They invited us."
+      ],
+      "mistakes": [
+        "❌ Me went home. → ✅ I went home."
+      ],
+      "questions": [
+        [
+          "She called ___.",
+          [
+            "I",
+            "me",
+            "my"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Possessives",
+      "level": "A1",
+      "rule": "Use possessive determiners before nouns and possessive pronouns without a following noun.",
+      "use": "Showing ownership or relationship.",
+      "formation": "my/your/his/her/our/their + noun; mine/yours/his/hers/ours/theirs.",
+      "hook": "MY BOOK • THE BOOK IS MINE",
+      "examples": [
+        "This is my car.",
+        "That car is mine.",
+        "Their house is large."
+      ],
+      "mistakes": [
+        "❌ This is mine car. → ✅ This is my car."
+      ],
+      "questions": [
+        [
+          "This is ___ book.",
+          [
+            "mine",
+            "my",
+            "me"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Questions with do / does",
+      "level": "A1",
+      "rule": "Use do/does to form present-simple questions with ordinary verbs.",
+      "use": "Asking about habits, facts and routines.",
+      "formation": "Do + I/you/we/they + verb? Does + he/she/it + verb?",
+      "hook": "DO/DOES + BASE VERB",
+      "examples": [
+        "Do you work here?",
+        "Does she like tea?",
+        "Where does he live?"
+      ],
+      "mistakes": [
+        "❌ Does she likes tea? → ✅ Does she like tea?"
+      ],
+      "questions": [
+        [
+          "___ she like coffee?",
+          [
+            "Do",
+            "Does",
+            "Is"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Question words",
+      "level": "A1",
+      "rule": "Who, what, where, when, why and how ask for different information.",
+      "use": "Building useful everyday questions.",
+      "formation": "Question word + auxiliary/be + subject + verb.",
+      "hook": "WHO • WHAT • WHERE • WHEN • WHY • HOW",
+      "examples": [
+        "Where do you live?",
+        "Why are you late?",
+        "How does it work?"
+      ],
+      "mistakes": [
+        "❌ Where you live? → ✅ Where do you live?"
+      ],
+      "questions": [
+        [
+          "___ do you live?",
+          [
+            "Where",
+            "Why",
+            "When"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Negatives",
+      "level": "A1",
+      "rule": "Use not with be and do/does/did not with ordinary verbs.",
+      "use": "Saying something is not true or does not happen.",
+      "formation": "be + not; do/does/did + not + base verb.",
+      "hook": "NEGATIVE = AUXILIARY + NOT",
+      "examples": [
+        "I am not tired.",
+        "She doesn't smoke.",
+        "They didn't go."
+      ],
+      "mistakes": [
+        "❌ She doesn't goes. → ✅ She doesn't go."
+      ],
+      "questions": [
+        [
+          "He ___ like coffee.",
+          [
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Prepositions of place",
+      "level": "A1",
+      "rule": "Common place prepositions include in, on, at, under, behind, between and next to.",
+      "use": "Describing where people and things are.",
+      "formation": "in/on/at + place expression.",
+      "hook": "IN • ON • AT = LOCATION MAP",
+      "examples": [
+        "The keys are on the table.",
+        "She is at the station.",
+        "The car is in the garage."
+      ],
+      "mistakes": [
+        "❌ on the room → ✅ in the room"
+      ],
+      "questions": [
+        [
+          "The keys are ___ the table.",
+          [
+            "in",
+            "on",
+            "at"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Prepositions of time",
+      "level": "A1",
+      "rule": "Use at for clock times, on for days/dates and in for months/years/longer periods.",
+      "use": "Talking about when something happens.",
+      "formation": "at 5; on Monday; in July; in 2026.",
+      "hook": "AT TIME • ON DAY • IN PERIOD",
+      "examples": [
+        "at six o'clock",
+        "on Monday",
+        "in July",
+        "in the morning"
+      ],
+      "mistakes": [
+        "❌ in Monday → ✅ on Monday"
+      ],
+      "questions": [
+        [
+          "My birthday is ___ July.",
+          [
+            "at",
+            "on",
+            "in"
+          ],
+          2
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Past Simple",
+      "level": "A2",
+      "rule": "Use the past form for completed actions at a finished past time.",
+      "use": "Finished events and sequences in the past.",
+      "formation": "regular -ed; irregular past forms; did for questions/negatives.",
+      "hook": "FINISHED TIME → PAST",
+      "examples": [
+        "I visited Paris yesterday.",
+        "She went home.",
+        "Did you see him?",
+        "We didn't stay."
+      ],
+      "mistakes": [
+        "❌ Did you went? → ✅ Did you go?"
+      ],
+      "questions": [
+        [
+          "We ___ there yesterday.",
+          [
+            "go",
+            "went",
+            "gone"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Past Continuous",
+      "level": "A2",
+      "rule": "Use was/were + -ing for an action in progress at a past time.",
+      "use": "Background actions and interrupted events.",
+      "formation": "was/were + verb-ing.",
+      "hook": "WAS/WERE + ING → IN PROGRESS THEN",
+      "examples": [
+        "I was sleeping when you called.",
+        "They were eating at eight."
+      ],
+      "mistakes": [
+        "❌ I was sleep. → ✅ I was sleeping."
+      ],
+      "questions": [
+        [
+          "She ___ when I called.",
+          [
+            "slept",
+            "was sleeping",
+            "is sleeping"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present Perfect",
+      "level": "A2",
+      "rule": "Use have/has + past participle for past actions connected to the present.",
+      "use": "Experience, recent results and unfinished time periods.",
+      "formation": "have/has + V3.",
+      "hook": "HAVE/HAS + V3 → PAST CONNECTED TO NOW",
+      "examples": [
+        "I have finished.",
+        "She has visited Spain.",
+        "Have you ever seen snow?"
+      ],
+      "mistakes": [
+        "❌ She have finished. → ✅ She has finished."
+      ],
+      "questions": [
+        [
+          "She ___ already finished.",
+          [
+            "have",
+            "has",
+            "had"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present Perfect vs Past Simple",
+      "level": "A2",
+      "rule": "Present perfect connects past to now; past simple places a completed event in finished past time.",
+      "use": "Choosing between experience/current relevance and finished-time events.",
+      "formation": "Have/has + V3 vs past form.",
+      "hook": "FINISHED TIME → PAST • NO FINISHED TIME → OFTEN PERFECT",
+      "examples": [
+        "I have visited Paris.",
+        "I visited Paris in 2022."
+      ],
+      "mistakes": [
+        "❌ I have visited Paris in 2022. → Prefer: I visited Paris in 2022."
+      ],
+      "questions": [
+        [
+          "I ___ him yesterday.",
+          [
+            "have seen",
+            "saw",
+            "see"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Future: will",
+      "level": "A2",
+      "rule": "Use will + base verb for predictions, decisions made now, promises and offers.",
+      "use": "Future predictions, spontaneous decisions and promises.",
+      "formation": "will + base verb.",
+      "hook": "WILL + BASE → FUTURE IDEA",
+      "examples": [
+        "I will call you.",
+        "I think it will rain.",
+        "I'll help you."
+      ],
+      "mistakes": [
+        "❌ I will to go. → ✅ I will go."
+      ],
+      "questions": [
+        [
+          "I think she ___ come.",
+          [
+            "will",
+            "will to",
+            "is"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Going to",
+      "level": "A2",
+      "rule": "Use be going to + base verb for plans and predictions based on present evidence.",
+      "use": "Intentions and visible evidence.",
+      "formation": "am/is/are going to + base verb.",
+      "hook": "PLAN OR EVIDENCE → GOING TO",
+      "examples": [
+        "I'm going to study tonight.",
+        "Look at those clouds. It's going to rain."
+      ],
+      "mistakes": [
+        "❌ I going to study. → ✅ I am going to study."
+      ],
+      "questions": [
+        [
+          "We ___ visit Spain next year.",
+          [
+            "are going to",
+            "going",
+            "will to"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Modal verbs",
+      "level": "A2",
+      "rule": "Can, could, may, might, must and should are followed by the base verb.",
+      "use": "Ability, possibility, obligation, advice and permission.",
+      "formation": "modal + base verb.",
+      "hook": "MODAL + BASE — NO TO, NO -S",
+      "examples": [
+        "She can swim.",
+        "You should rest.",
+        "He must leave.",
+        "It might rain."
+      ],
+      "mistakes": [
+        "❌ He can swims. → ✅ He can swim."
+      ],
+      "questions": [
+        [
+          "You should ___ earlier.",
+          [
+            "leave",
+            "leaves",
+            "to leave"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Comparatives & superlatives",
+      "level": "A2",
+      "rule": "Use comparative forms to compare two things and superlatives for the highest degree in a group.",
+      "use": "Comparing people, places and things.",
+      "formation": "short adjective + -er/-est; more/most + longer adjective.",
+      "hook": "TWO → COMPARATIVE • GROUP → SUPERLATIVE",
+      "examples": [
+        "This car is faster.",
+        "She is the tallest.",
+        "This book is more interesting."
+      ],
+      "mistakes": [
+        "❌ more faster → ✅ faster"
+      ],
+      "questions": [
+        [
+          "This is ___ than that.",
+          [
+            "fast",
+            "faster",
+            "fastest"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Conditionals: zero & first",
+      "level": "B1",
+      "rule": "Zero conditional describes general truths; first conditional describes real future possibilities.",
+      "use": "Facts, rules, warnings and possible future results.",
+      "formation": "If + present, present; If + present, will + base.",
+      "hook": "ZERO = ALWAYS • FIRST = POSSIBLE",
+      "examples": [
+        "If you heat ice, it melts.",
+        "If it rains, I will stay home."
+      ],
+      "mistakes": [
+        "❌ If it will rain, I will stay home. → ✅ If it rains, I will stay home."
+      ],
+      "questions": [
+        [
+          "If it rains, I ___ home.",
+          [
+            "stay",
+            "will stay",
+            "stayed"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Second conditional",
+      "level": "B1",
+      "rule": "Use if + past, would + base for unreal or unlikely present/future situations.",
+      "use": "Imaginary situations and advice.",
+      "formation": "If + past, would + base.",
+      "hook": "IMAGINARY NOW → WOULD",
+      "examples": [
+        "If I had more time, I would travel.",
+        "If I were you, I'd wait."
+      ],
+      "mistakes": [
+        "❌ If I would have time... → ✅ If I had time..."
+      ],
+      "questions": [
+        [
+          "If I were rich, I ___ travel.",
+          [
+            "will",
+            "would",
+            "can"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Passive voice",
+      "level": "B1",
+      "rule": "Use be + past participle when the action is more important than the doer.",
+      "use": "Processes, reports and formal writing.",
+      "formation": "be + V3, with tense carried by be.",
+      "hook": "FOCUS ON ACTION, NOT ACTOR",
+      "examples": [
+        "The window was broken.",
+        "English is spoken worldwide.",
+        "The report will be published tomorrow."
+      ],
+      "mistakes": [
+        "❌ The report published. → ✅ The report was published."
+      ],
+      "questions": [
+        [
+          "English ___ spoken here.",
+          [
+            "is",
+            "are",
+            "be"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "B1",
+      "rule": "Use who for people, which for things, that for people/things in defining clauses, and whose for possession.",
+      "use": "Adding information about a noun.",
+      "formation": "noun + who/which/that + clause.",
+      "hook": "WHO = PEOPLE • WHICH = THINGS",
+      "examples": [
+        "The woman who called is my sister.",
+        "This is the book that I bought."
+      ],
+      "mistakes": [
+        "❌ The man which called → ✅ The man who called"
+      ],
+      "questions": [
+        [
+          "The book ___ I bought is here.",
+          [
+            "who",
+            "which/that",
+            "where"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Reported speech",
+      "level": "B1",
+      "rule": "Reported speech tells what someone said without quoting the exact words.",
+      "use": "Reporting statements and questions.",
+      "formation": "said/told + reported clause; tense often shifts back.",
+      "hook": "DIRECT → REPORTED",
+      "examples": [
+        "She said, “I am tired.” → She said that she was tired.",
+        "He told me he was busy."
+      ],
+      "mistakes": [
+        "❌ He said me... → ✅ He told me... / He said..."
+      ],
+      "questions": [
+        [
+          "She said that she ___ tired.",
+          [
+            "is",
+            "was",
+            "be"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Gerunds & infinitives",
+      "level": "B1",
+      "rule": "Some verbs are followed by -ing and others by to + base; meaning can sometimes change.",
+      "use": "Talking about activities, plans and verb complements.",
+      "formation": "enjoy + -ing; want + to + verb; decide + to + verb.",
+      "hook": "ENJOY DOING • WANT TO DO",
+      "examples": [
+        "I enjoy reading.",
+        "She wants to learn.",
+        "They decided to leave."
+      ],
+      "mistakes": [
+        "❌ I enjoy to read. → ✅ I enjoy reading."
+      ],
+      "questions": [
+        [
+          "I enjoy ___ books.",
+          [
+            "read",
+            "reading",
+            "to read"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Conjunctions & complex sentences",
+      "level": "B1",
+      "rule": "Conjunctions connect ideas and show contrast, reason, time, condition or result.",
+      "use": "Making longer, clearer sentences.",
+      "formation": "because, although, while, when, if, so, therefore.",
+      "hook": "CONNECT IDEAS, DON'T JUST ADD SENTENCES",
+      "examples": [
+        "I stayed home because it rained.",
+        "Although he was tired, he worked."
+      ],
+      "mistakes": [
+        "❌ Although he was tired but he worked. → Remove but."
+      ],
+      "questions": [
+        [
+          "I stayed home ___ it rained.",
+          [
+            "because",
+            "although",
+            "unless"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Advanced conditionals & mixed conditionals",
+      "level": "B2",
+      "rule": "Third conditional describes unreal past results; mixed conditionals connect past conditions with present results.",
+      "use": "Regret, hypothetical past and present consequences.",
+      "formation": "If + had + V3, would have + V3; mixed forms vary by meaning.",
+      "hook": "PAST UNREAL → HAD + V3",
+      "examples": [
+        "If I had studied, I would have passed.",
+        "If I had taken that job, I would live abroad now."
+      ],
+      "mistakes": [
+        "❌ If I would have studied... → ✅ If I had studied..."
+      ],
+      "questions": [
+        [
+          "If she had left earlier, she ___ caught the train.",
+          [
+            "would have",
+            "will have",
+            "would"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Substitution, emphasis & advanced word order",
+      "level": "C1",
+      "rule": "Advanced English uses auxiliary substitution, inversion and emphasis to make writing precise or formal.",
+      "use": "Formal writing and sophisticated expression.",
+      "formation": "Neither do I; Not only..., but...; Rarely do we...",
+      "hook": "AUXILIARY CAN CARRY THE GRAMMAR",
+      "examples": [
+        "Rarely do we see such results.",
+        "Not only did he win, but he also set a record.",
+        "I do understand."
+      ],
+      "mistakes": [
+        "❌ Rarely we see... → Formal: Rarely do we see..."
+      ],
+      "questions": [
+        [
+          "Rarely ___ we see such results.",
+          [
+            "do",
+            "does",
+            "are"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    }
+  ],
+  "Spanish": [
+    {
+      "topic": "Fundamentos de la oración",
+      "level": "A1",
+      "rule": "Spanish commonly uses subject + verb + complement, but subject pronouns are often omitted because the verb shows person.",
+      "use": "Basic statements.",
+      "formation": "Sujeto + verbo + complemento; pronombre opcional.",
+      "hook": "EL VERBO YA DICE QUIÉN",
+      "examples": [
+        "Trabajo cada día.",
+        "Ella estudia español.",
+        "Vivimos en Madrid."
+      ],
+      "mistakes": [
+        "❌ Yo trabaja. → ✅ Yo trabajo."
+      ],
+      "questions": [
+        [
+          "Ella ___ español.",
+          [
+            "estudio",
+            "estudia",
+            "estudian"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Ser",
+      "level": "A1",
+      "rule": "Ser expresses identity, origin, profession, characteristics and other relatively essential descriptions.",
+      "use": "Identity and essential description.",
+      "formation": "soy, eres, es, somos, sois, son.",
+      "hook": "SER → QUÉ / QUIÉN ES",
+      "examples": [
+        "Soy profesor.",
+        "Ella es española.",
+        "Madrid es grande."
+      ],
+      "mistakes": [
+        "❌ Estoy profesor. → ✅ Soy profesor."
+      ],
+      "questions": [
+        [
+          "Yo ___ profesor.",
+          [
+            "soy",
+            "estoy",
+            "es"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Estar",
+      "level": "A1",
+      "rule": "Estar expresses location, temporary state and conditions.",
+      "use": "Location and changing states.",
+      "formation": "estoy, estás, está, estamos, estáis, están.",
+      "hook": "ESTAR → CÓMO / DÓNDE",
+      "examples": [
+        "Estoy cansado.",
+        "Madrid está en España.",
+        "Estamos en casa."
+      ],
+      "mistakes": [
+        "❌ Madrid es en España. → ✅ Madrid está en España."
+      ],
+      "questions": [
+        [
+          "Yo ___ en Madrid.",
+          [
+            "soy",
+            "estoy",
+            "es"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present tense: regular verbs",
+      "level": "A1",
+      "rule": "Regular -ar, -er and -ir verbs change endings according to the subject.",
+      "use": "Habits, routines and present facts.",
+      "formation": "hablar: hablo/hablas/habla; comer: como/comés; vivir: vivo/vives/vive.",
+      "hook": "LA TERMINACIÓN CAMBIA",
+      "examples": [
+        "Hablo español.",
+        "Comemos juntos.",
+        "Viven aquí."
+      ],
+      "mistakes": [
+        "❌ Yo hablan. → ✅ Yo hablo."
+      ],
+      "questions": [
+        [
+          "Nosotros ___ español.",
+          [
+            "habla",
+            "hablamos",
+            "hablan"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Gender & articles",
+      "level": "A1",
+      "rule": "Nouns have grammatical gender; articles agree with noun gender and number.",
+      "use": "Choosing el/la/los/las and un/una/unos/unas.",
+      "formation": "el/la/los/las; un/una/unos/unas.",
+      "hook": "EL/LOS • LA/LAS",
+      "examples": [
+        "el libro",
+        "la casa",
+        "los amigos",
+        "unas flores"
+      ],
+      "mistakes": [
+        "❌ el casa → ✅ la casa"
+      ],
+      "questions": [
+        [
+          "___ casa es grande.",
+          [
+            "El",
+            "La",
+            "Los"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Plural nouns",
+      "level": "A1",
+      "rule": "Most nouns form plural with -s after a vowel and -es after a consonant.",
+      "use": "Talking about more than one noun.",
+      "formation": "casa → casas; papel → papeles.",
+      "hook": "ONE → MANY: -S / -ES",
+      "examples": [
+        "una casa → dos casas",
+        "un papel → dos papeles"
+      ],
+      "mistakes": [
+        "❌ papels → ✅ papeles"
+      ],
+      "questions": [
+        [
+          "dos ___",
+          [
+            "casa",
+            "casas",
+            "casas"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Subject & object pronouns",
+      "level": "A1",
+      "rule": "Spanish subject pronouns may be omitted; object pronouns identify the receiver of an action.",
+      "use": "Clear reference and everyday speech.",
+      "formation": "yo/me; tú/te; él/lo; ella/la; nosotros/nos; ellos/los/las.",
+      "hook": "SUBJECT DOES • OBJECT RECEIVES",
+      "examples": [
+        "Yo lo veo.",
+        "Ella me llama.",
+        "Nosotros la conocemos."
+      ],
+      "mistakes": [
+        "❌ Yo veo él. → Often: Yo lo veo."
+      ],
+      "questions": [
+        [
+          "Ella ___ llama.",
+          [
+            "me",
+            "yo",
+            "mi"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Possessives",
+      "level": "A1",
+      "rule": "Possessive adjectives agree with the thing possessed, not with the owner.",
+      "use": "Showing ownership.",
+      "formation": "mi/mis, tu/tus, su/sus, nuestro/a/os/as.",
+      "hook": "AGREE WITH THE THING",
+      "examples": [
+        "mi casa",
+        "mis libros",
+        "nuestra familia"
+      ],
+      "mistakes": [
+        "❌ nuestro casa → ✅ nuestra casa"
+      ],
+      "questions": [
+        [
+          "___ libros son nuevos.",
+          [
+            "Mi",
+            "Mis",
+            "Mío"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Questions",
+      "level": "A1",
+      "rule": "Questions can use rising intonation, question words and inverted punctuation.",
+      "use": "Everyday information questions.",
+      "formation": "¿qué?, ¿quién?, ¿dónde?, ¿cuándo?, ¿por qué?, ¿cómo?",
+      "hook": "QUESTION WORD + VERB",
+      "examples": [
+        "¿Dónde vives?",
+        "¿Qué haces?",
+        "¿Por qué estudias español?"
+      ],
+      "mistakes": [
+        "❌ Donde vives? → Written Spanish: ¿Dónde vives?"
+      ],
+      "questions": [
+        [
+          "¿___ vives?",
+          [
+            "Dónde",
+            "Por qué",
+            "Quién"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Negation",
+      "level": "A1",
+      "rule": "Place no before the conjugated verb for basic negation.",
+      "use": "Making statements negative.",
+      "formation": "no + verb; double negatives are grammatical in Spanish.",
+      "hook": "NO + VERBO",
+      "examples": [
+        "No trabajo hoy.",
+        "No tengo nada.",
+        "Nunca voy allí."
+      ],
+      "mistakes": [
+        "❌ No no tengo → Avoid unnecessary duplication."
+      ],
+      "questions": [
+        [
+          "Yo ___ trabajo hoy.",
+          [
+            "no",
+            "nunca",
+            "sí"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Hay",
+      "level": "A1",
+      "rule": "Hay means there is/there are and is used for existence.",
+      "use": "Introducing something that exists.",
+      "formation": "hay + noun; same form for singular and plural.",
+      "hook": "HAY = THERE IS / ARE",
+      "examples": [
+        "Hay un problema.",
+        "Hay tres libros.",
+        "¿Hay un banco aquí?"
+      ],
+      "mistakes": [
+        "❌ Hay están tres libros → use hay directly."
+      ],
+      "questions": [
+        [
+          "___ tres libros.",
+          [
+            "Es",
+            "Hay",
+            "Están"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Prepositions",
+      "level": "A1",
+      "rule": "Common prepositions include a, en, de, con, para and por.",
+      "use": "Location, destination, origin, company and purpose.",
+      "formation": "a = to; en = in/on; de = of/from; para = purpose; por = reason/through.",
+      "hook": "A → TO • EN → IN • DE → FROM",
+      "examples": [
+        "Voy a Madrid.",
+        "Estoy en casa.",
+        "Soy de India.",
+        "Estudio para aprender."
+      ],
+      "mistakes": [
+        "❌ Voy en Madrid. → Destination normally: Voy a Madrid."
+      ],
+      "questions": [
+        [
+          "Voy ___ Madrid.",
+          [
+            "a",
+            "en",
+            "de"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Direct object personal a",
+      "level": "A2",
+      "rule": "Use personal a before a specific person as a direct object.",
+      "use": "Talking about people who receive an action.",
+      "formation": "ver a María; conocer a Juan.",
+      "hook": "PERSON → A",
+      "examples": [
+        "Veo a María.",
+        "Conozco a tu hermano."
+      ],
+      "mistakes": [
+        "❌ Veo María. → ✅ Veo a María."
+      ],
+      "questions": [
+        [
+          "Conozco ___ Ana.",
+          [
+            "a",
+            "en",
+            "de"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Preterite",
+      "level": "A2",
+      "rule": "The preterite describes completed past events.",
+      "use": "Finished actions and sequences.",
+      "formation": "hablé, hablaste, habló; fui, fue for ir/ser.",
+      "hook": "EVENT COMPLETED → PRETÉRITO",
+      "examples": [
+        "Ayer fui al mercado.",
+        "Comí a las ocho.",
+        "Llegaron tarde."
+      ],
+      "mistakes": [
+        "❌ Ayer iba al mercado, when a single completed trip is meant."
+      ],
+      "questions": [
+        [
+          "Ayer ___ al mercado.",
+          [
+            "fui",
+            "iba",
+            "voy"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Imperfect",
+      "level": "A2",
+      "rule": "The imperfect describes habitual, ongoing or background past situations.",
+      "use": "Habits, descriptions and background.",
+      "formation": "hablaba, comía, vivía; era, iba, veía.",
+      "hook": "BACKGROUND / HABIT → IMPERFECTO",
+      "examples": [
+        "Cuando era niño, jugaba mucho.",
+        "Hacía frío.",
+        "Vivíamos allí."
+      ],
+      "mistakes": [
+        "❌ Cuando era niño, jugué mucho. → Habit: jugaba."
+      ],
+      "questions": [
+        [
+          "Cuando era niño, ___ mucho.",
+          [
+            "jugué",
+            "jugaba",
+            "juego"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Preterite vs imperfect",
+      "level": "A2",
+      "rule": "Use preterite for the event and imperfect for background or repeated context.",
+      "use": "Storytelling in the past.",
+      "formation": "event = preterite; background = imperfect.",
+      "hook": "EVENT + BACKGROUND",
+      "examples": [
+        "Llovía cuando llegué.",
+        "Mientras caminaba, vi a Juan."
+      ],
+      "mistakes": [
+        "❌ Use of one tense for every past verb can obscure the story."
+      ],
+      "questions": [
+        [
+          "Mientras ___, vi a Juan.",
+          [
+            "caminé",
+            "caminaba",
+            "camino"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present progressive",
+      "level": "A2",
+      "rule": "Estar + gerund describes an action in progress.",
+      "use": "Actions happening now.",
+      "formation": "estoy/estás/está + hablando/comiendo/viviendo.",
+      "hook": "ESTAR + -ANDO/-IENDO",
+      "examples": [
+        "Estoy estudiando.",
+        "Estamos comiendo."
+      ],
+      "mistakes": [
+        "❌ Estoy estudio. → ✅ Estoy estudiando."
+      ],
+      "questions": [
+        [
+          "Estamos ___ español.",
+          [
+            "estudiamos",
+            "estudiando",
+            "estudiar"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Near future",
+      "level": "A2",
+      "rule": "Ir a + infinitive expresses a planned or imminent future.",
+      "use": "Plans and intentions.",
+      "formation": "voy/vas/va/vamos/vais/van + a + infinitive.",
+      "hook": "IR A + VERB → FUTURE PLAN",
+      "examples": [
+        "Voy a estudiar.",
+        "Vamos a viajar mañana."
+      ],
+      "mistakes": [
+        "❌ Voy estudiar → ✅ Voy a estudiar."
+      ],
+      "questions": [
+        [
+          "Vamos ___ viajar.",
+          [
+            "a",
+            "de",
+            "por"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Future simple",
+      "level": "A2",
+      "rule": "Add future endings to the infinitive; many irregular stems exist.",
+      "use": "Predictions and future statements.",
+      "formation": "infinitive + é, ás, á, emos, éis, án.",
+      "hook": "INFINITIVE + FUTURE ENDING",
+      "examples": [
+        "Estudiaré mañana.",
+        "Llegaremos pronto.",
+        "Será interesante."
+      ],
+      "mistakes": [
+        "❌ Yo estudiaréé → only one future ending."
+      ],
+      "questions": [
+        [
+          "Mañana ___ a casa.",
+          [
+            "volveré",
+            "volvía",
+            "volví"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Conditional",
+      "level": "B1",
+      "rule": "The conditional expresses hypothetical results, polite requests and possibilities.",
+      "use": "Would, could-like meanings and polite language.",
+      "formation": "infinitive + ía, ías, ía, íamos, íais, ían.",
+      "hook": "INFINITIVE + ÍA",
+      "examples": [
+        "Viajaría más.",
+        "¿Podrías ayudarme?",
+        "Sería mejor esperar."
+      ],
+      "mistakes": [
+        "❌ Si tendría tiempo... → In conditional clauses use imperfect subjunctive: Si tuviera..."
+      ],
+      "questions": [
+        [
+          "Yo ___ más si pudiera.",
+          [
+            "viajaría",
+            "viajaré",
+            "viajaba"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Commands",
+      "level": "B1",
+      "rule": "Spanish commands change according to positive/negative form and person.",
+      "use": "Instructions, requests and advice.",
+      "formation": "tú positive: habla; negative: no hables; formal forms use subjunctive.",
+      "hook": "POSITIVE ≠ NEGATIVE",
+      "examples": [
+        "Habla despacio.",
+        "No hables tan rápido.",
+        "Dígame la verdad."
+      ],
+      "mistakes": [
+        "❌ No habla → negative command needs subjunctive: no hables."
+      ],
+      "questions": [
+        [
+          "No ___ tan rápido.",
+          [
+            "hablas",
+            "hables",
+            "hablar"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present perfect",
+      "level": "B1",
+      "rule": "Haber + past participle expresses a completed action connected to the present.",
+      "use": "Recent events and experiences, especially with present relevance.",
+      "formation": "he/has/ha/hemos/habéis/han + V3.",
+      "hook": "HABER + V3",
+      "examples": [
+        "He terminado.",
+        "Hemos visto la película.",
+        "¿Has comido?"
+      ],
+      "mistakes": [
+        "❌ He comido ayer → with a finished past marker, preterite is often expected: comí ayer."
+      ],
+      "questions": [
+        [
+          "Ella ___ terminado.",
+          [
+            "ha",
+            "han",
+            "es"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Direct & indirect object pronouns",
+      "level": "B1",
+      "rule": "Object pronouns can precede conjugated verbs and attach to infinitives/gerunds/positive commands.",
+      "use": "Natural object reference.",
+      "formation": "me, te, lo/la, le, nos, os, los/las; combinations vary.",
+      "hook": "SHORT PRONOUNS REPLACE LONG NOUNS",
+      "examples": [
+        "Se lo doy.",
+        "Quiero verlo.",
+        "Estoy leyéndolo."
+      ],
+      "mistakes": [
+        "❌ Le lo doy → combined indirect + direct becomes se lo."
+      ],
+      "questions": [
+        [
+          "Yo ___ lo doy.",
+          [
+            "le",
+            "se",
+            "la"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Por vs para",
+      "level": "B1",
+      "rule": "Para commonly expresses purpose, destination or deadline; por commonly expresses cause, exchange, duration, movement through and other relations.",
+      "use": "Choosing the correct preposition.",
+      "formation": "para + purpose/destination; por + reason/exchange/duration.",
+      "hook": "PARA → PURPOSE • POR → CAUSE / THROUGH",
+      "examples": [
+        "Estudio para aprender.",
+        "Gracias por tu ayuda.",
+        "Trabajo por tres horas."
+      ],
+      "mistakes": [
+        "❌ Estudio por aprender → purpose: para aprender."
+      ],
+      "questions": [
+        [
+          "Estudio español ___ viajar.",
+          [
+            "por",
+            "para",
+            "de"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Subjunctive: present",
+      "level": "B1",
+      "rule": "The present subjunctive commonly appears after wishes, recommendations, emotion, doubt and certain conjunctions.",
+      "use": "Non-factual, desired or subjective situations.",
+      "formation": "que + subjunctive after trigger; regular endings differ from indicative.",
+      "hook": "WISH / DOUBT / EMOTION → SUBJUNCTIVE",
+      "examples": [
+        "Quiero que vengas.",
+        "Es importante que estudies.",
+        "Dudo que sea cierto."
+      ],
+      "mistakes": [
+        "❌ Quiero que vienes → trigger requires subjunctive: vengas."
+      ],
+      "questions": [
+        [
+          "Quiero que tú ___ mañana.",
+          [
+            "vienes",
+            "vengas",
+            "venir"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "B1",
+      "rule": "Que is the common relative pronoun; quien(es), donde and lo que add more specific meanings.",
+      "use": "Connecting information about nouns and ideas.",
+      "formation": "noun + que + clause; quien for people in suitable contexts.",
+      "hook": "QUE CONNECTS THE NOUN TO ITS CLAUSE",
+      "examples": [
+        "La mujer que vive aquí es mi amiga.",
+        "El lugar donde nací es pequeño."
+      ],
+      "mistakes": [
+        "❌ La mujer que ella vive... → avoid unnecessary repeated subject when relative pronoun already fills the role."
+      ],
+      "questions": [
+        [
+          "El libro ___ compré es bueno.",
+          [
+            "que",
+            "quien",
+            "donde"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Passive and se constructions",
+      "level": "B2",
+      "rule": "Spanish often uses se or passive structures to express general or passive meanings without emphasizing the agent.",
+      "use": "Processes, notices and formal descriptions.",
+      "formation": "se + verb + noun; ser + participle in formal passive.",
+      "hook": "SE = GENERAL / PROCESS",
+      "examples": [
+        "Se venden casas.",
+        "Se habla español aquí.",
+        "La carta fue enviada ayer."
+      ],
+      "mistakes": [
+        "❌ Se vende casas → plural agreement: Se venden casas."
+      ],
+      "questions": [
+        [
+          "Aquí se ___ casas.",
+          [
+            "vende",
+            "venden",
+            "vendió"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Reported speech",
+      "level": "B2",
+      "rule": "Reported speech integrates what someone said into a new clause and adjusts references and sometimes tense.",
+      "use": "Retelling conversations and information.",
+      "formation": "dijo que + clause; preguntó si/qué...",
+      "hook": "SAY IT AGAIN, ADJUST THE VIEWPOINT",
+      "examples": [
+        "Dijo que estaba cansado.",
+        "Me preguntó si venía."
+      ],
+      "mistakes": [
+        "❌ Dijo me → dijo que / me dijo."
+      ],
+      "questions": [
+        [
+          "Dijo que ___ cansado.",
+          [
+            "está",
+            "estaba",
+            "estar"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Imperfect subjunctive",
+      "level": "B2",
+      "rule": "The imperfect subjunctive is used for hypothetical, past-dependent or formal subjunctive contexts.",
+      "use": "Unreal conditions, reported wishes and past triggers.",
+      "formation": "-ra/-se forms; e.g. hablara, tuviera, fuera.",
+      "hook": "SI + IMPERFECT SUBJUNCTIVE → CONDITIONAL",
+      "examples": [
+        "Si tuviera tiempo, viajaría.",
+        "Quería que vinieras."
+      ],
+      "mistakes": [
+        "❌ Si tendría tiempo → Si tuviera tiempo."
+      ],
+      "questions": [
+        [
+          "Si ___ tiempo, viajaría.",
+          [
+            "tendría",
+            "tuviera",
+            "tengo"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Conditional sentences",
+      "level": "B2",
+      "rule": "Spanish uses different combinations of indicative, subjunctive and conditional to express real, hypothetical and impossible situations.",
+      "use": "Precise hypothetical meaning.",
+      "formation": "Si + present → future; si + imperfect subjunctive → conditional; si + pluperfect subjunctive → conditional perfect.",
+      "hook": "SI CLAUSE CONTROLS THE MEANING",
+      "examples": [
+        "Si llueve, me quedaré.",
+        "Si tuviera tiempo, viajaría.",
+        "Si hubiera sabido, habría venido."
+      ],
+      "mistakes": [
+        "❌ Si habría sabido... → Si hubiera sabido..."
+      ],
+      "questions": [
+        [
+          "Si hubiera sabido, ___ venido.",
+          [
+            "habría",
+            "había",
+            "hubiera"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present perfect subjunctive",
+      "level": "B2",
+      "rule": "Haya + past participle expresses completed action within a subjunctive context.",
+      "use": "Emotion, doubt or evaluation about a completed action.",
+      "formation": "haya/hayas/haya/hayamos/hayan + V3.",
+      "hook": "SUBJUNCTIVE + COMPLETED ACTION",
+      "examples": [
+        "Me alegra que hayas venido.",
+        "Dudo que haya terminado."
+      ],
+      "mistakes": [
+        "❌ Me alegra que has venido → subjunctive after emotion."
+      ],
+      "questions": [
+        [
+          "Me alegra que ___ venido.",
+          [
+            "has",
+            "hayas",
+            "haber"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Advanced connectors & discourse",
+      "level": "C1",
+      "rule": "Connectors such as aunque, sin embargo, mientras que, a pesar de que and por lo tanto express precise logical relationships.",
+      "use": "Clear advanced writing and argumentation.",
+      "formation": "connector + clause; choose indicative/subjunctive according to meaning.",
+      "hook": "CONNECTORS SHOW LOGIC",
+      "examples": [
+        "Aunque es difícil, lo intentaré.",
+        "Sin embargo, continuó.",
+        "Por lo tanto, debemos actuar."
+      ],
+      "mistakes": [
+        "❌ Using every connector as interchangeable can change the logic."
+      ],
+      "questions": [
+        [
+          "___ estaba cansado, continuó trabajando.",
+          [
+            "Aunque",
+            "Por lo tanto",
+            "Porque"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    }
+  ],
+  "French": [
+    {
+      "topic": "Fondations de la phrase",
+      "level": "A1",
+      "rule": "French commonly uses subject + verb + complement.",
+      "use": "Simple statements.",
+      "formation": "Sujet + verbe + complément.",
+      "hook": "QUI + FAIT QUOI ?",
+      "examples": [
+        "Je travaille.",
+        "Elle lit un livre.",
+        "Nous sommes prêts."
+      ],
+      "mistakes": [
+        "❌ Elle heureux. → ✅ Elle est heureuse."
+      ],
+      "questions": [
+        [
+          "Elle ___ un livre.",
+          [
+            "lit",
+            "lis",
+            "lire"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Être",
+      "level": "A1",
+      "rule": "Être expresses identity, description, origin, profession, location in certain constructions and states.",
+      "use": "Identity and description.",
+      "formation": "je suis, tu es, il est, nous sommes, vous êtes, ils sont.",
+      "hook": "ÊTRE → BE",
+      "examples": [
+        "Je suis étudiant.",
+        "Elle est française.",
+        "Nous sommes prêts."
+      ],
+      "mistakes": [
+        "❌ Je es → ✅ Je suis"
+      ],
+      "questions": [
+        [
+          "Nous ___ prêts.",
+          [
+            "sommes",
+            "êtes",
+            "sont"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Avoir",
+      "level": "A1",
+      "rule": "Avoir means to have and forms many compound tenses.",
+      "use": "Possession, age and common expressions.",
+      "formation": "j'ai, tu as, il a, nous avons, vous avez, ils ont.",
+      "hook": "AVOIR → HAVE",
+      "examples": [
+        "J'ai un livre.",
+        "Elle a vingt ans.",
+        "Nous avons faim."
+      ],
+      "mistakes": [
+        "❌ Je suis vingt ans → French uses avoir for age: J'ai vingt ans."
+      ],
+      "questions": [
+        [
+          "J'___ vingt ans.",
+          [
+            "suis",
+            "ai",
+            "est"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Present tense: regular verbs",
+      "level": "A1",
+      "rule": "Regular -er, -ir and some -re verbs use predictable present endings.",
+      "use": "Habits and current facts.",
+      "formation": "parler: parle/parles/parle/parlons/parlez/parlent.",
+      "hook": "ENDING TELLS THE PERSON",
+      "examples": [
+        "Je parle français.",
+        "Nous finissons le travail.",
+        "Ils vendent des livres."
+      ],
+      "mistakes": [
+        "❌ Je parles → ✅ Je parle"
+      ],
+      "questions": [
+        [
+          "Nous ___ français.",
+          [
+            "parlons",
+            "parlez",
+            "parlent"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Articles: le / la / les",
+      "level": "A1",
+      "rule": "Definite articles agree in gender and number.",
+      "use": "Talking about known or general nouns.",
+      "formation": "le masculine singular; la feminine singular; les plural.",
+      "hook": "LE • LA • LES",
+      "examples": [
+        "le livre",
+        "la maison",
+        "les amis"
+      ],
+      "mistakes": [
+        "❌ le maison → ✅ la maison"
+      ],
+      "questions": [
+        [
+          "___ maison est grande.",
+          [
+            "Le",
+            "La",
+            "Les"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Un / une / des",
+      "level": "A1",
+      "rule": "Indefinite articles introduce non-specific singular or plural nouns.",
+      "use": "Introducing things and people.",
+      "formation": "un masculine; une feminine; des plural.",
+      "hook": "UN • UNE • DES",
+      "examples": [
+        "un livre",
+        "une maison",
+        "des amis"
+      ],
+      "mistakes": [
+        "❌ une livre when livre means book → un livre."
+      ],
+      "questions": [
+        [
+          "J'ai ___ voiture.",
+          [
+            "un",
+            "une",
+            "des"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Gender & agreement",
+      "level": "A1",
+      "rule": "Adjectives generally agree with the noun in gender and number.",
+      "use": "Describing nouns accurately.",
+      "formation": "masculine/feminine; singular/plural endings vary by adjective.",
+      "hook": "ADJECTIVE AGREES WITH NOUN",
+      "examples": [
+        "un homme heureux",
+        "une femme heureuse",
+        "des maisons blanches"
+      ],
+      "mistakes": [
+        "❌ une homme heureux → une femme heureuse"
+      ],
+      "questions": [
+        [
+          "une fille ___",
+          [
+            "petit",
+            "petite",
+            "petites"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Subject pronouns",
+      "level": "A1",
+      "rule": "French normally requires an explicit subject pronoun with a finite verb.",
+      "use": "Building complete sentences.",
+      "formation": "je, tu, il/elle/on, nous, vous, ils/elles.",
+      "hook": "FRENCH USUALLY NEEDS THE SUBJECT",
+      "examples": [
+        "Je travaille.",
+        "Elle arrive.",
+        "Nous étudions."
+      ],
+      "mistakes": [
+        "❌ Travaille aujourd'hui. → Usually: Je travaille aujourd'hui."
+      ],
+      "questions": [
+        [
+          "___ travaillons ensemble.",
+          [
+            "Nous",
+            "Nous sommes",
+            "On"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Possessives",
+      "level": "A1",
+      "rule": "Possessive adjectives agree with the possessed noun and number, not with the owner.",
+      "use": "Ownership.",
+      "formation": "mon/ma/mes; ton/ta/tes; son/sa/ses; notre/nos; votre/vos; leur/leurs.",
+      "hook": "AGREE WITH THE NOUN",
+      "examples": [
+        "mon livre",
+        "ma maison",
+        "mes amis",
+        "notre voiture"
+      ],
+      "mistakes": [
+        "❌ mon maison → ✅ ma maison"
+      ],
+      "questions": [
+        [
+          "___ maison",
+          [
+            "mon",
+            "ma",
+            "mes"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Questions",
+      "level": "A1",
+      "rule": "French questions can use intonation, est-ce que or inversion.",
+      "use": "Everyday and formal questions.",
+      "formation": "Tu viens ? / Est-ce que tu viens ? / Viens-tu ?",
+      "hook": "THREE COMMON QUESTION STYLES",
+      "examples": [
+        "Tu viens ?",
+        "Est-ce que tu viens ?",
+        "Où habitez-vous ?"
+      ],
+      "mistakes": [
+        "❌ Est-ce que viens-tu ? → Don't combine forms unnecessarily."
+      ],
+      "questions": [
+        [
+          "___ vous habitez ?",
+          [
+            "Où",
+            "Quand est-ce",
+            "Pourquoi que"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Negation",
+      "level": "A1",
+      "rule": "Basic negation places ne before the conjugated verb and pas after it.",
+      "use": "Making statements negative.",
+      "formation": "ne + verb + pas; ne becomes n' before vowel sound.",
+      "hook": "NE ... PAS WRAPS THE VERB",
+      "examples": [
+        "Je ne parle pas anglais.",
+        "Il n'aime pas le café."
+      ],
+      "mistakes": [
+        "❌ Je pas parle → ✅ Je ne parle pas"
+      ],
+      "questions": [
+        [
+          "Je ___ parle ___ anglais.",
+          [
+            "ne / pas",
+            "pas / ne",
+            "ne / jamais"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "C'est / Il est",
+      "level": "A1",
+      "rule": "C'est commonly introduces or identifies a noun; il/elle est commonly precedes an adjective or profession without an article.",
+      "use": "Identifying and describing.",
+      "formation": "c'est + noun; il/elle est + adjective/profession in common patterns.",
+      "hook": "C'EST → IDENTIFY • IL EST → DESCRIBE",
+      "examples": [
+        "C'est un professeur.",
+        "Il est gentil.",
+        "C'est intéressant."
+      ],
+      "mistakes": [
+        "❌ C'est gentil? Context matters; use il est gentil for a person."
+      ],
+      "questions": [
+        [
+          "___ un bon film.",
+          [
+            "C'est",
+            "Il est",
+            "Elle est"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Prepositions of place",
+      "level": "A1",
+      "rule": "Use à, dans, sur, sous, devant, derrière, entre and related expressions for location.",
+      "use": "Describing where things are.",
+      "formation": "à/dans/sur + place; country prepositions require gender/number patterns.",
+      "hook": "WHERE? → CHOOSE THE MAP WORD",
+      "examples": [
+        "Le livre est sur la table.",
+        "Je suis dans la maison.",
+        "Il est devant la porte."
+      ],
+      "mistakes": [
+        "❌ sur la maison when meaning inside → dans la maison"
+      ],
+      "questions": [
+        [
+          "Le livre est ___ la table.",
+          [
+            "sur",
+            "dans",
+            "à"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Prepositions of time",
+      "level": "A1",
+      "rule": "French uses expressions such as à for clock time, en for months/years and le for recurring days.",
+      "use": "Talking about when.",
+      "formation": "à 8h; en juillet; le lundi; pendant deux heures.",
+      "hook": "TIME EXPRESSION → PREPOSITION",
+      "examples": [
+        "à huit heures",
+        "en juillet",
+        "le lundi"
+      ],
+      "mistakes": [
+        "❌ en lundi → recurring day: le lundi"
+      ],
+      "questions": [
+        [
+          "Je travaille ___ lundi.",
+          [
+            "en",
+            "le",
+            "à"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Passé composé",
+      "level": "A2",
+      "rule": "Passé composé commonly uses avoir or être + past participle.",
+      "use": "Completed past actions.",
+      "formation": "avoir/être in present + participe passé.",
+      "hook": "AUXILIARY + V3 → COMPLETED PAST",
+      "examples": [
+        "J'ai mangé.",
+        "Elle est arrivée.",
+        "Nous avons fini."
+      ],
+      "mistakes": [
+        "❌ J'ai allé → Aller uses être: je suis allé."
+      ],
+      "questions": [
+        [
+          "J'___ mangé.",
+          [
+            "ai",
+            "suis",
+            "est"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Imparfait",
+      "level": "A2",
+      "rule": "Imparfait describes background, habits and ongoing states in the past.",
+      "use": "Past descriptions and repeated actions.",
+      "formation": "nous present stem + ais, ais, ait, ions, iez, aient; être → ét-.",
+      "hook": "BACKGROUND / HABIT → IMPARFAIT",
+      "examples": [
+        "Quand j'étais jeune, je lisais beaucoup.",
+        "Il faisait froid."
+      ],
+      "mistakes": [
+        "❌ Single completed event usually needs passé composé."
+      ],
+      "questions": [
+        [
+          "Quand j'étais jeune, je ___ beaucoup.",
+          [
+            "lisais",
+            "ai lu",
+            "lirai"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Passé composé vs imparfait",
+      "level": "A2",
+      "rule": "Use passé composé for completed events and imparfait for background or habitual context.",
+      "use": "Storytelling.",
+      "formation": "event = passé composé; background = imparfait.",
+      "hook": "EVENT + BACKGROUND",
+      "examples": [
+        "Il pleuvait quand je suis arrivé.",
+        "Je lisais quand il a téléphoné."
+      ],
+      "mistakes": [
+        "❌ Don't use one tense for every past verb."
+      ],
+      "questions": [
+        [
+          "Il ___ quand je suis arrivé.",
+          [
+            "a plu",
+            "pleuvait",
+            "pleut"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Futur proche",
+      "level": "A2",
+      "rule": "Aller + infinitive expresses a near or planned future.",
+      "use": "Plans and imminent events.",
+      "formation": "vais/vas/va/allons/allez/vont + infinitive.",
+      "hook": "ALLER + VERB → FUTURE PLAN",
+      "examples": [
+        "Je vais partir.",
+        "Nous allons voyager demain."
+      ],
+      "mistakes": [
+        "❌ Je vais partir, not je vais à partir."
+      ],
+      "questions": [
+        [
+          "Nous ___ voyager.",
+          [
+            "allons",
+            "sommes",
+            "avons"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Futur simple",
+      "level": "A2",
+      "rule": "The future is formed with the infinitive (or irregular stem) plus future endings.",
+      "use": "Predictions and future statements.",
+      "formation": "-ai, -as, -a, -ons, -ez, -ont.",
+      "hook": "INFINITIVE + FUTURE ENDING",
+      "examples": [
+        "Je travaillerai demain.",
+        "Nous partirons bientôt.",
+        "Il sera là."
+      ],
+      "mistakes": [
+        "❌ je travaillerais when simple future is intended."
+      ],
+      "questions": [
+        [
+          "Demain, je ___ tôt.",
+          [
+            "partirai",
+            "partais",
+            "suis parti"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Modal expressions",
+      "level": "A2",
+      "rule": "Pouvoir, devoir and vouloir express ability/permission, obligation and desire.",
+      "use": "Common practical communication.",
+      "formation": "pouvoir/devoir/vouloir + infinitive.",
+      "hook": "CAN → POUVOIR • MUST → DEVOIR • WANT → VOULOIR",
+      "examples": [
+        "Je peux venir.",
+        "Tu dois travailler.",
+        "Je veux apprendre."
+      ],
+      "mistakes": [
+        "❌ Je peux à venir → modal + infinitive directly."
+      ],
+      "questions": [
+        [
+          "Je ___ venir.",
+          [
+            "peux",
+            "peut",
+            "pouvoir"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Comparatives",
+      "level": "A2",
+      "rule": "Use plus, moins and aussi with que to compare adjectives, adverbs or nouns.",
+      "use": "Comparing things and people.",
+      "formation": "plus/moins/aussi + adjective + que; mieux/meilleur special forms.",
+      "hook": "PLUS / MOINS / AUSSI + QUE",
+      "examples": [
+        "Paul est plus grand que Marc.",
+        "Elle travaille mieux que moi."
+      ],
+      "mistakes": [
+        "❌ plus meilleur → meilleur already means better."
+      ],
+      "questions": [
+        [
+          "Elle est ___ grande que moi.",
+          [
+            "plus",
+            "très",
+            "meilleure"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Object pronouns",
+      "level": "B1",
+      "rule": "Direct and indirect object pronouns replace nouns and normally appear before the verb.",
+      "use": "Avoiding repetition.",
+      "formation": "me, te, le/la, lui, nous, vous, les, leur.",
+      "hook": "PRONOUN BEFORE THE VERB",
+      "examples": [
+        "Je le vois.",
+        "Je lui parle.",
+        "Nous les connaissons."
+      ],
+      "mistakes": [
+        "❌ Je vois le → ✅ Je le vois."
+      ],
+      "questions": [
+        [
+          "Je ___ parle.",
+          [
+            "lui",
+            "le",
+            "la"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Y and en",
+      "level": "B1",
+      "rule": "Y can replace certain places or à + thing; en can replace de + thing or quantities.",
+      "use": "Compact everyday French.",
+      "formation": "y → place/à; en → de/quantity.",
+      "hook": "Y = THERE • EN = OF IT / SOME",
+      "examples": [
+        "J'y vais.",
+        "J'en parle.",
+        "J'en ai trois."
+      ],
+      "mistakes": [
+        "❌ J'y parle de lui in the wrong context; choose according to the preposition."
+      ],
+      "questions": [
+        [
+          "Tu vas à Paris ? Oui, j'___ vais.",
+          [
+            "en",
+            "y",
+            "le"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Relative pronouns",
+      "level": "B1",
+      "rule": "Qui, que, dont and où connect a noun to a relative clause.",
+      "use": "Combining sentences.",
+      "formation": "qui = subject; que = object; dont = de; où = place/time.",
+      "hook": "QUI DOES • QUE RECEIVES • DONT = DE",
+      "examples": [
+        "La femme qui parle est ma sœur.",
+        "Le livre que je lis est intéressant.",
+        "La ville où je vis est calme."
+      ],
+      "mistakes": [
+        "❌ La femme que parle → qui is subject."
+      ],
+      "questions": [
+        [
+          "Le livre ___ je lis est bon.",
+          [
+            "qui",
+            "que",
+            "où"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Si clauses",
+      "level": "B1",
+      "rule": "French uses present + future/imperative for real conditions and imperfect + conditional for hypothetical ones.",
+      "use": "Conditions and consequences.",
+      "formation": "si + present → future; si + imperfect → conditional.",
+      "hook": "SI + TENSE PAIRING MATTERS",
+      "examples": [
+        "Si tu viens, je serai content.",
+        "Si j'avais le temps, je voyagerais."
+      ],
+      "mistakes": [
+        "❌ Si j'aurais le temps → Si j'avais le temps."
+      ],
+      "questions": [
+        [
+          "Si j'avais le temps, je ___ .",
+          [
+            "voyagerais",
+            "voyagerai",
+            "voyageais"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Imperative",
+      "level": "B1",
+      "rule": "The imperative gives commands, advice and instructions.",
+      "use": "Instructions and requests.",
+      "formation": "tu/vous/nous forms; pronoun placement changes in affirmative commands.",
+      "hook": "COMMAND → VERB FORM",
+      "examples": [
+        "Écoute !",
+        "Écoutez !",
+        "Allons-y !"
+      ],
+      "mistakes": [
+        "❌ Tu écoute ! → Imperative: Écoute !"
+      ],
+      "questions": [
+        [
+          "___ attention !",
+          [
+            "Écoute",
+            "Écoutez",
+            "Écouter"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Subjunctive present",
+      "level": "B1",
+      "rule": "The subjunctive often follows necessity, emotion, doubt, desire and certain conjunctions.",
+      "use": "Non-factual, desired or evaluated situations.",
+      "formation": "que + subjunctive after trigger.",
+      "hook": "IL FAUT QUE → SUBJUNCTIVE",
+      "examples": [
+        "Il faut que tu viennes.",
+        "Je veux qu'il fasse attention.",
+        "Bien qu'il soit tard..."
+      ],
+      "mistakes": [
+        "❌ Il faut que tu viens → viennes."
+      ],
+      "questions": [
+        [
+          "Il faut que tu ___ .",
+          [
+            "viens",
+            "viennes",
+            "venir"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Passive voice",
+      "level": "B2",
+      "rule": "French passive voice uses être + past participle, with agreement.",
+      "use": "Formal descriptions and processes.",
+      "formation": "être + participe passé; tense is carried by être.",
+      "hook": "ÊTRE + V3",
+      "examples": [
+        "La lettre est envoyée.",
+        "Le bâtiment a été construit en 1900."
+      ],
+      "mistakes": [
+        "❌ La lettre est envoyé → feminine agreement: envoyée."
+      ],
+      "questions": [
+        [
+          "La lettre est ___ .",
+          [
+            "envoyé",
+            "envoyée",
+            "envoyées"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Reported speech",
+      "level": "B2",
+      "rule": "Reported speech introduces what someone said with que, si or question words and may require tense changes.",
+      "use": "Retelling information.",
+      "formation": "il a dit que...; il a demandé si...",
+      "hook": "DIRECT → REPORTED",
+      "examples": [
+        "Il a dit qu'il était fatigué.",
+        "Elle a demandé si je venais."
+      ],
+      "mistakes": [
+        "❌ Il a dit moi → Il m'a dit / Il a dit que..."
+      ],
+      "questions": [
+        [
+          "Il a dit qu'il ___ fatigué.",
+          [
+            "est",
+            "était",
+            "être"
+          ],
+          1
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Plus-que-parfait",
+      "level": "B2",
+      "rule": "Plus-que-parfait expresses an action completed before another past action.",
+      "use": "Sequencing past events.",
+      "formation": "imparfait of avoir/être + past participle.",
+      "hook": "PAST BEFORE PAST",
+      "examples": [
+        "J'avais déjà mangé quand il est arrivé.",
+        "Elle était partie avant midi."
+      ],
+      "mistakes": [
+        "❌ J'ai déjà mangé quand il est arrivé can change the sequence meaning."
+      ],
+      "questions": [
+        [
+          "J'___ déjà mangé quand il est arrivé.",
+          [
+            "avais",
+            "ai",
+            "étais"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    },
+    {
+      "topic": "Advanced connectors",
+      "level": "C1",
+      "rule": "Connectors such as pourtant, cependant, puisque, tandis que, bien que and afin que express precise logical relations.",
+      "use": "Advanced speaking and writing.",
+      "formation": "connector + appropriate clause; subjunctive after certain triggers.",
+      "hook": "CONNECTORS = LOGIC",
+      "examples": [
+        "Bien qu'il soit tard, nous continuons.",
+        "Cependant, il refuse.",
+        "Puisque tu es là, aide-moi."
+      ],
+      "mistakes": [
+        "❌ Bien que + indicative in standard formal usage → often subjunctive."
+      ],
+      "questions": [
+        [
+          "___ il soit tard, nous continuons.",
+          [
+            "Bien que",
+            "Parce que",
+            "Donc"
+          ],
+          0
+        ]
+      ],
+      "patterns": []
+    }
+  ]
+}

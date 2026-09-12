@@ -1,0 +1,38 @@
+{
+  "English": {
+    "lessons": 31,
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1"
+    ],
+    "examples": 91,
+    "questions": 34
+  },
+  "Spanish": {
+    "lessons": 32,
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1"
+    ],
+    "examples": 89,
+    "questions": 32
+  },
+  "French": {
+    "lessons": 31,
+    "levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1"
+    ],
+    "examples": 85,
+    "questions": 31
+  }
+}
